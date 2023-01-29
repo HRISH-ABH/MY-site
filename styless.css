@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    text-align: center ;
+    background-color: #B9F3FC;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left:42%;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.clouds{
+ position: absolute;
+ left:5%;
+}
+.bg{
+    position: absolute;
+    height: 400px;
+    width:  400px;
+    top: 33%;
+    left: 45%;
+    
+}
+.bg:hover{
+    transform: scale(1.5);
+    
+}
+.Top{
+     text-align: center;
+     
+
+}
+.background{
+    margin:0;
+    height:100%;
+    width:100%;
+
+   
+}
+p{
+    font-size: 75px;
+    position: absolute;
+    top: 55%;
+    left:45%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
